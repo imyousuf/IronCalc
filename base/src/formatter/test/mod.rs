@@ -9,3 +9,4 @@ mod test_rounding;
 mod test_scientific;
 mod test_special_dollar;
 mod test_time;
+mod test_time_rounding;
